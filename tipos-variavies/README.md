@@ -1,4 +1,4 @@
-## Este repositório serve para que eu teste, documente e demonstre meus novos conhecimentos na linguagem Java
+# Este repositório serve para que eu teste, documente e demonstre meus novos conhecimentos na linguagem Java 😎☕
 
 ## Getting Started
 
