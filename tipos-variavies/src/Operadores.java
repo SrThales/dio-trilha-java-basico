@@ -73,8 +73,19 @@ public class Operadores {
         System.out.println(yesNo6);
 
 
+        //testes com operadores lógicos:
+        System.out.println("Resultados dos testes com operadores lógicos:");
 
+        boolean condition1 = true;
+        boolean condition2 = false;
 
+        if(condition1 && condition2) {
+            System.out.println("Essa mensagem não será exibida");
+        }
+        System.out.println("O operador lógico && priorizou a resposta false e o print dentro do if não foi mostrado, assim como deve ser, portanto esta mensagem foi escrita fora dele.");
+        if(condition1 || condition2) {
+            System.out.println("O operador lógico || priorizou a resposta true, assim como deve ser.");
+        }
     }
 
 
